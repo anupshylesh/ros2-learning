@@ -40,8 +40,6 @@ A collection of ROS 2 Python exercises and robotics communication examples devel
 
 | `robot_news_station.py` | Publishes robot news |
 
-| `robot_status.py` | Publishes robot status |
-
 | `battery.py` | Battery status example |
 
 | `led_panel.py` | LED panel control example |

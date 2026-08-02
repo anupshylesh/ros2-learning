@@ -28,9 +28,6 @@ setup(
             "add_two_ints_server = my_py_pkg.add_two_ints_server:main",
             "add_two_ints_client_no_oop = my_py_pkg.add_two_ints_client_no_oop:main",
             "add_two_ints_client = my_py_pkg.add_two_ints_client:main",
-            "project_one_pub = my_py_pkg.project_one_pub:main",
-            "project_one_sub= my_py_pkg.project_one_sub:main",
-            "hw_status_pub= my_py_pkg.robot_status:main",
             "led_panel = my_py_pkg.led_panel:main",
             "battery = my_py_pkg.battery:main"
 
